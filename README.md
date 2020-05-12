@@ -1,5 +1,8 @@
 # Leetcode Solution
 
-\nOrigininal solution
-\nOptimize Time complexity
+Origininal solution
+
+Optimize Time complexity
+
 Optimize Space complexity
+
